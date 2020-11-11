@@ -2,28 +2,35 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "gridBezier"]
 	path = gridBezier
 	url = https://github.com/pmur002/gridbezier
 	shallow = true
+	branch = HEAD
 [submodule "gridGeometry"]
 	path = gridGeometry
 	url = https://github.com/pmur002/gridgeometry
 	shallow = true
+	branch = HEAD
 [submodule "gridGraphics"]
 	path = gridGraphics
 	url = https://github.com/pmur002/gridgraphics
 	shallow = true
+	branch = HEAD
 [submodule "metapost"]
 	path = metapost
 	url = https://github.com/pmur002/metapost
 	shallow = true
+	branch = HEAD
 [submodule "rasterize"]
 	path = rasterize
 	url = https://github.com/pmur002/rasterize
 	shallow = true
+	branch = HEAD
 [submodule "vwline"]
 	path = vwline
 	url = https://github.com/pmur002/vwline
 	shallow = true
+	branch = HEAD
 	subdir = pkg
