@@ -1,0 +1,26 @@
+[
+  {
+    "package": "gridBezier",
+    "oncran": true
+  },
+  {
+    "package": "gridGeometry",
+    "oncran": true
+  },
+  {
+    "package": "gridGraphics",
+    "oncran": true
+  },
+  {
+    "package": "metapost",
+    "oncran": true
+  },
+  {
+    "package": "rasterize",
+    "oncran": true
+  },
+  {
+    "package": "vwline",
+    "oncran": true
+  }
+]

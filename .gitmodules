@@ -8,35 +8,29 @@
 	url = https://github.com/pmur002/gridbezier
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gridGeometry"]
 	path = gridGeometry
 	url = https://github.com/pmur002/gridgeometry
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gridGraphics"]
 	path = gridGraphics
 	url = https://github.com/pmur002/gridgraphics
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "metapost"]
 	path = metapost
 	url = https://github.com/pmur002/metapost
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rasterize"]
 	path = rasterize
 	url = https://github.com/pmur002/rasterize
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "vwline"]
 	path = vwline
 	url = https://github.com/pmur002/vwline
 	shallow = true
 	subdir = pkg
 	registered = true
-	oncran = true
