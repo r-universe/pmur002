@@ -1,5 +1,6 @@
 [
   {
-    "package": "gggrid"
+    "package": "gggrid",
+    "oncran": false
   }
 ]
