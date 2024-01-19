@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/pmur002/universe
-	shallow = true
 	branch = HEAD
 [submodule "gggrid"]
 	path = gggrid
 	url = https://github.com/pmur002/gggrid
-	shallow = true
-	registered = true
