@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/pmur002/universe
+	url = https://github.com/pmur002/pmur002.r-universe.dev
 	branch = HEAD
 [submodule "gggrid"]
 	path = gggrid
